@@ -1,8 +1,8 @@
 const Home = () => {
   return (
-    <div>
-      <h1>React RPG Game</h1>
-    </div>
+    <main>
+      <h1 class="text-3xl font-bold">React RPG Game</h1>
+    </main>
   );
 };
 
